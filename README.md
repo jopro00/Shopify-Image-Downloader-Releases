@@ -1,6 +1,6 @@
 # Shopify Image Downloader - Releases Hub
 
-Welcome to the official release repository for **Shopify Image Downloader**.
+Welcome to the official release repository for ** Downloader**.
 
 This repository hosts official executable installers, updates, and release manifests for the application.
 
